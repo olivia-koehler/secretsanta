@@ -1,0 +1,18 @@
+.title {
+  margin-top: 5rem;
+  font-size: 9rem;
+  background: -webkit-linear-gradient(#ff7878, #74d680);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.submit-button {
+  cursor: pointer;
+}
+
+.theCodeIsoliviaWinsSecretSanta {
+  width: 300;
+  padding: "10px";
+}
