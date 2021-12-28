@@ -63,6 +63,7 @@ function App() {
         {giftDisplayed ? (
           <a
             target="_blank"
+            rel="noopener noreferrer"
             href="https://www.prezzee.com/gift/open/5d335e7c-f0f7-4222-9110-29e2f96c7aaf/"
           >
             CLICK HERE FOR YOUR GIFT
